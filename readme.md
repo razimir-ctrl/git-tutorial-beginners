@@ -1,1 +1,7 @@
+# The best github repo out there.
 This is a readme file
+The best ways are 
+- Eat
+- sleep
+- code
+- repeat
